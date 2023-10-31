@@ -1,0 +1,1 @@
+https://www.allphptricks.com/simple-laravel-10-crud-application/
